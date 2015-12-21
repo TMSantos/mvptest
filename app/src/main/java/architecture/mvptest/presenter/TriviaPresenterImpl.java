@@ -1,6 +1,6 @@
 package architecture.mvptest.presenter;
 
-import architecture.mvptest.TriviaCallback.TriviaCallback;
+import architecture.mvptest.triviacallback.TriviaCallback;
 import architecture.mvptest.model.TriviaEntity;
 import architecture.mvptest.model.TriviaModel;
 import architecture.mvptest.model.TriviaModelImpl;

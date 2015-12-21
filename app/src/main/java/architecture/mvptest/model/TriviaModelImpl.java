@@ -1,6 +1,6 @@
 package architecture.mvptest.model;
 
-import architecture.mvptest.TriviaCallback.TriviaCallback;
+import architecture.mvptest.triviacallback.TriviaCallback;
 import architecture.mvptest.rest.RestClient;
 import architecture.mvptest.rest.restmodels.TriviaResponse;
 import rx.Observer;

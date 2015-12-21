@@ -1,6 +1,6 @@
 package architecture.mvptest.model;
 
-import architecture.mvptest.TriviaCallback.TriviaCallback;
+import architecture.mvptest.triviacallback.TriviaCallback;
 
 /**
  * Created by Tiago on 21/12/2015.

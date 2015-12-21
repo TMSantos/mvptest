@@ -1,4 +1,4 @@
-package architecture.mvptest.TriviaCallback;
+package architecture.mvptest.triviacallback;
 
 /**
  * Created by Tiago on 21/12/2015.
